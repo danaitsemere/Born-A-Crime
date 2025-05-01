@@ -1,0 +1,99 @@
+
+.navigation{
+    background-color: rgb(235, 232, 232);
+    padding: 13px;
+    display: flex;
+    gap: 15%;
+    padding-left: 20%;
+    
+    
+    }
+    .navigation a{
+        text-decoration: none;
+        color: black;
+        font-size: 30px;
+    }
+    #bookTitle{
+        margin-left: 20%;
+    }
+    .mainBody{
+    display: flex;
+    
+    margin-top: 5%;
+    }
+    .intro{
+        display: flex;
+    }
+    .intro img{
+     width: 50%;
+     margin-left: -100%;
+    }
+    
+        
+    
+    .trevor img{
+    width: 100%;
+    }
+    .myPhoto img{
+     width: 100%;
+     
+     margin-bottom: 10%; 
+     border-radius: 50%;
+    
+    
+     
+    
+    }
+    
+    #welcome{
+        padding-top: 18%;
+        width: 150%;
+    
+    }
+    .hello p{
+        margin-top: 17%;
+    }
+    .journey img{
+        width: 50%;
+        
+    }
+    .childhood{
+        display: flex;
+    }
+    .voluteer{
+        display: flex;
+    }
+    .award{
+        display: flex;
+    }
+    .main{
+        width: 38%;
+        overflow: scroll;
+        height: 150vh;
+        margin-left: 20%;
+    }
+    .marketing{
+        margin-right: 10%;
+        width: 22%;
+        padding-left: 5%;
+        
+    }
+    .twitable{
+        display: flex;
+    
+    }
+    .logo{
+        font-size: 150%;
+        display: flex;
+        flex-direction: column;
+        color:gray ;
+        
+    }
+    
+    .quote{
+        margin-left: 5%;
+        width: 100%;
+    }
+    .logo #w{
+        /* padding-top: ; */
+    }
