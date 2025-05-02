@@ -53,18 +53,54 @@
     .hello p{
         margin-top: 17%;
     }
-    .journey img{
-        width: 50%;
-        
-    }
+   
     .childhood{
         display: flex;
+        /* gap: 8px;
+        margin-top: 30%; */
+       gap: 15px;
+    }
+    .childhood img{
+    
     }
     .voluteer{
         display: flex;
+       /* width: 4vw;
+        gap: 8px;
+        margin-top: 20%; */
+        gap: 15px;
+    
+    
+    }
+    .journey{
+        width: 21.6vw;
+        height: 100vh;
+        background-color: rgb(236, 234, 234);
+        margin-top: 14%;
+    }
+    .journey img{
+        height: 20vh;
+        width: 10vw;
+      
+    }
+    #h{
+        margin-left: 5px;
+    }
+    
+    .voluteer img{
+   
+        width: 10vw;  
+      
     }
     .award{
         display: flex;
+        /* gap: 8px;
+        margin-top: 30%; */
+        gap: 15px;
+    }
+    .award img{
+        width: 10vw;  
+         
     }
     .main{
         width: 38%;
@@ -73,9 +109,10 @@
         margin-left: 20%;
     }
     .marketing{
-        margin-right: 10%;
         width: 22%;
         padding-left: 5%;
+    
+        
         
     }
     .twitable{
@@ -83,7 +120,7 @@
     
     }
     .logo{
-        font-size: 150%;
+        font-size: 200%;
         display: flex;
         flex-direction: column;
         color:gray ;
@@ -94,6 +131,114 @@
         margin-left: 5%;
         width: 100%;
     }
-    .logo #w{
-        /* padding-top: ; */
+    #w{
+      padding-top: 23px;    
     }
+    #e{
+        padding-top:190px ;
+       
+    }
+   #r{
+    padding-top: 155px; 
+   }
+   #tweets{
+    background-color: rgb(32, 175, 241);
+    border: none;
+    padding: 9px;
+    width: 100px;
+    color: white;
+   }
+   .connection a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    color: blue;
+   }
+.share{
+    margin-left: 23.5%;
+    font-size: 25px;
+}
+.share a{
+    text-decoration: none;
+    color: blue;
+    
+    margin-right: 5%;
+
+}
+.subs-form input{
+    margin-left: 470px;
+    width: 20%;
+    padding: 18px;
+} 
+#subscribe{
+    width: 8%;
+    padding: 15px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    
+}
+
+
+.subscription{
+    margin-left: 25%;
+}
+
+
+#sub{
+ margin-left: 8%;
+}
+#hr{
+    width: 35%;
+    margin-left: 23%;
+    
+}
+.comment {
+    margin-left: 20.7%;
+    margin-top: 2%;
+}
+.comment form{
+    margin-top: 2%;
+}
+#feedback{
+    padding: 5%;
+    width: 36.2%;
+ 
+}
+input{
+margin:1% 0%;
+width: 43.4%;
+padding: 18px;
+}
+#post{
+    padding: 18px;
+    width:15%;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+
+}
+.navig {
+   margin-top: 5%;
+   background-color: rgb(235, 232, 232);
+   padding: 25px;
+   margin-bottom: 5%;
+   display: flex;
+   
+ 
+   
+}
+.navig a{
+    text-decoration: none;
+    color: black;
+    margin-left: 10%;
+    
+   
+    
+}
+#f{
+font-size: 30px;
+color: blue;
+}
+
+
