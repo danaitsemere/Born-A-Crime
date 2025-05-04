@@ -69,7 +69,7 @@ body{
     gap: 15px;
 }
 
-.childhood img {}
+
 
 .voluteer {
     display: flex;
@@ -220,7 +220,7 @@ body{
 
 
 .subscription {
-    margin-left: 25%;
+    margin-left: 23%;
 }
 
 
@@ -301,6 +301,319 @@ input {
         height: 100vh;
         overflow-x: hidden;
     }
+    #bookTitle {
+        font-size: 15px;
+     
+        font-size: 15px;
+
+    }
+  #myphoto{
+    width: 20vw;
+    margin-left: -80%;
+    margin-top: 5%;
+  
+  }
+    .navigation {
+        background-color: rgb(235, 232, 232);
+        padding: 13px;
+        display: flex;
+        padding-left: 5%;
+        width: 80%;
+
+
+    }
+
+    .navigation a {
+        text-decoration: none;
+        color: black;
+        font-size: 10px;
+    }
+
+   
+
+    .mainBody {
+        display: flex;
+        flex-direction: column;
+         font-size: 12px;
+        margin-top: 5%;
+    }
+
+    .intro {
+        display: flex;
+    }
+
+    .intro img {
+        width: 50%;
+        margin-left: -80%;
+    }
+
+
+
+    .trevor img {
+        width: 70%;
+    }
+
+    .myPhoto img {
+        width: 200px;
+        margin-bottom: 8%;
+        border-radius: 50%;
+
+
+
+
+    }
+
+    #welcome {
+        padding-top: 18%;
+        width: 150%;
+
+    }
+
+    .hello p {
+        margin-top: 17%;
+    }
+
+    .childhood {
+        display: flex;
+        /* gap: 8px;
+            margin-top: 30%; */
+        gap: 15px;
+    }
+
+
+
+    .voluteer {
+        display: flex;
+        gap: 15px;
+
+
+    }
+
+    .journey {
+        width: 75vw;
+        height: 100vh;
+        background-color: rgb(236, 234, 234);
+        margin-top: 14%;
+        margin-left: -5%;
+    }
+
+    .journey img {
+        height: 20vh;
+        width: 30vw;
+
+    }
+
+    #h {
+        margin-left: 5px;
+    }
+
+    .voluteer img {
+
+        width: 30vw;
+
+    }
+
+    .award {
+        display: flex;
+        /* gap: 8px;
+            margin-top: 30%; */
+        gap: 15px;
+    }
+
+    .award img {
+        width: 30vw;
+
+    }
+
+    .main {
+        width: 75vw;
+        overflow: scroll;
+        height: 150vh;
+        margin-left: 5%;
+        font-size: 13px;
+
+
+    }
+
+    .marketing {
+        width: 38vh;
+        margin-left: 5%;
+        margin-top: 20%;
+        font-size: 13;
+
+
+
+
+    }
+
+    .twitable {
+        display: flex;
+
+    }
+
+    .logo {
+        font-size: 200%;
+        display: flex;
+        flex-direction: column;
+        color: gray;
+
+    }
+
+    .quote {
+        margin-left: 5%;
+        width: 100%;
+    }
+
+    #w {
+        padding-top: 23px;
+    }
+
+    #e {
+        padding-top: 190px;
+
+    }
+
+    #r {
+        padding-top: 155px;
+    }
+
+    #tweets {
+        background-color: rgb(32, 175, 241);
+        border: none;
+        padding: 9px;
+        width: 100px;
+        color: white;
+    }
+
+    .connection a {
+        text-decoration: none;
+        color: black;
+        font-size: 25px;
+        color: blue;
+    }
+
+    .share {
+        margin-left: 28%;
+        font-size: 13px;
+        margin-top: 10%;
+    }
+
+    .share a {
+        text-decoration: none;
+        color: blue;
+        margin-right: 5%;
+
+    }
+
+    .subs-form input {
+        margin-left: 10px;
+        width: 30%;
+        padding: 15px;
+        margin-top: 2%;
+
+    }
+
+    #subscribe {
+        width: 30%;
+        padding: 15px;
+        background-color: black;
+        color: white;
+        font-size: 15px;
+        margin-left: 5%;
+
+    }
+
+
+    .subscription {
+      font-size: 10px;
+    margin-left: 10px;
+    }
+
+
+    #sub {
+        margin-left: 0%;
+    }
+
+    #hr {
+        width: 35%;
+        margin-left: 23%;
+
+    }
+
+    .comment {
+        margin-left: 2%;
+        margin-top: 2%;
+        font-size: 13px;
+        
+    }
+    
+
+    .comment form {
+        margin-top: 2%;
+    }
+
+    #feedback {
+        padding: 10%;
+        width: 66.5%;
+
+    }
+
+    input {
+        margin: 1% 0%;
+        width: 80%;
+        padding: 18px;
+    }
+
+    #post {
+        padding: 10px;
+        width: 50%;
+        background-color: black;
+        color: white;
+        font-size: 15px;
+
+    }
+
+    .navig {
+        margin-top: 5%;
+        background-color: rgb(235, 232, 232);
+        padding: 40px;
+        margin-bottom: 5%;
+        display: flex;
+        width: 72%;
+        gap: 30px;
+
+
+
+
+    }
+
+    .navig a {
+        text-decoration: none;
+        color: black;
+        margin-left: -4%;
+        font-size: 12px;
+        gap: 2px;
+
+
+
+    }
+
+    #f {
+        font-size: 20px;
+        color: blue;
+        margin-top: 2%;
+    }
+
+}
+
+@media only screen and (min-width: 751px) and (max-width:999px) {
+
+
+    body{
+        width: 100vw;
+        height: 100vh;
+        overflow-x: hidden;
+    }
     .bookTitle {
         font-size: 10px;
 
@@ -312,8 +625,8 @@ input {
         background-color: rgb(235, 232, 232);
         padding: 13px;
         display: flex;
-        padding-left: 15%;
-        width: 78%;
+        padding-left: 5%;
+        width: 85%;
 
 
     }
@@ -378,7 +691,7 @@ input {
         gap: 15px;
     }
 
-    .childhood img {}
+
 
     .voluteer {
         display: flex;
@@ -423,10 +736,10 @@ input {
     }
 
     .main {
-        width: 75vw;
+        width: 80vw;
         overflow: scroll;
         height: 150vh;
-        margin-left: 20%;
+        margin-left: 10%;
         font-size: 13px;
 
 
@@ -434,8 +747,9 @@ input {
 
     .marketing {
         width: 40vh;
-        margin-left: 15%;
+        margin-left: 10%;
         margin-top: 20%;
+        font-size: 13;
 
 
 
@@ -489,9 +803,9 @@ input {
     }
 
     .share {
-        margin-left: %;
-        font-size: 25px;
-        margin-top: 20%;
+        margin-left: 28%;
+        font-size: 13px;
+        margin-top: 10%;
     }
 
     .share a {
@@ -538,7 +852,7 @@ input {
     .comment {
         margin-left: 2%;
         margin-top: 2%;
-        font-size: 15px;
+        font-size: 13px;
         
     }
     
@@ -598,295 +912,7 @@ input {
         color: blue;
         margin-top: 2%;
     }
-
 }
-
-@media only screen and (min-width: 751px) and (max-width:999px) {
-
-
-    #bookTitle {
-        font-size: 30px;
-
-    }
-
-    .navigation {
-        background-color: rgb(235, 232, 232);
-        padding: 13px;
-        display: flex;
-        padding-left: 20%;
-
-
-    }
-
-    .navigation a {
-        text-decoration: none;
-        color: black;
-        font-size: 10px;
-    }
-
-   
-
-    .mainBody {
-        display: flex;
-        flex-direction: column;
-        margin-top: 5%;
-    
-    }
-
-    .intro {
-        display: flex;
-    }
-
-    .intro img {
-        width: 50%;
-        margin-left: -100%;
-    }
-
-
-
-    .trevor img {
-        width: 100%;
-    }
-
-    #welcome {
-        padding-top: 18%;
-        width: 150%;
-
-    }
-
-    .hello p {
-        margin-top: 17%;
-    }
-
-    .childhood {
-        display: flex;
-        /* gap: 8px;
-               margin-top: 30%; */
-        gap: 15px;
-    }
-    .main-content{
-        margin-left: -10px;
-    }
-
-
-    .voluteer {
-        display: flex;
-        /* width: 4vw;
-               gap: 8px;
-               margin-top: 20%; */
-        gap: 15px;
-
-
-    }
-
-    .journey {
-        width: 100vw;
-        height: 100vh;
-        background-color: rgb(236, 234, 234);
-        margin-top: 14%;
-    }
-
-    .journey img {
-        height: 20vh;
-        width: 30vw;
-
-    }
-
-    #h {
-        margin-left: 5px;
-    }
-
-    .voluteer img {
-
-        width: 30vw;
-
-    }
-
-    .award {
-        display: flex;
-        /* gap: 8px;
-               margin-top: 30%; */
-        gap: 15px;
-    }
-
-    .award img {
-        width: 30vw;
-
-    }
-
-    .main {
-        width: 75vw;
-        overflow: scroll;
-        height: 150vh;
-        margin-left: 0%;
-    }
-
-    .marketing {
-        width: 40vh;
-        margin-left: 15%;
-        margin-top: 20%;
-
-
-
-
-    }
-
-    .twitable {
-        display: flex;
-
-    }
-
-    .logo {
-        font-size: 200%;
-        display: flex;
-        flex-direction: column;
-        color: gray;
-
-    }
-
-    .quote {
-        margin-left: 5%;
-        width: 100%;
-    }
-
-    #w {
-        padding-top: 23px;
-    }
-
-    #e {
-        padding-top: 190px;
-
-    }
-
-    #r {
-        padding-top: 155px;
-    }
-
-    #tweets {
-        background-color: rgb(32, 175, 241);
-        border: none;
-        padding: 9px;
-        width: 100px;
-        color: white;
-    }
-
-    .connection a {
-        text-decoration: none;
-        color: black;
-        font-size: 25px;
-        color: blue;
-    }
-
-    .share {
-        font-size: 15px;
-        margin-top: 10%;
-    
-    
-    }
-  
-
-    .share a {
-        text-decoration: none;
-        color: blue;
-        margin-right: 10%;
-
-    }
-
-    .subs-form input {
-        margin-left: 70px;
-        width: 30%;
-        padding: 15px;
-
-    }
-
-    #subscribe {
-        width: 30%;
-        padding: 15px;
-        background-color: black;
-        color: white;
-        font-size: 10px;
-        margin-left: 5%;
-
-    }
-
-
-    .subscription {
-        margin-left: 20%;
-    }
-
-
-    #sub {
-        margin-left: 8%;
-    }
-
-    #hr {
-     
-        margin-left: 23%;
-
-    }
-
-    .comment {
-        margin-left: 2%;
-        margin-top: 2%;
-    }
-
-    .comment form {
-        margin-top: 2%;
-    }
-
-    #feedback {
-        padding: 10%;
-        width: 70%;
-
-    }
-
-    input {
-        margin: 1% 0%;
-        width: 80%;
-        padding: 18px;
-    }
-
-    #post {
-        padding: 10px;
-        width: 50%;
-        background-color: black;
-        color: white;
-        font-size: 20px;
-
-    }
-
-    .navig {
-        margin-top: 5%;
-        background-color: rgb(235, 232, 232);
-        padding: 40px;
-        margin-bottom: 5%;
-        display: flex;
-        width: 80%;
-        gap: 20px;
-
-
-
-
-    }
-
-    .navig a {
-        text-decoration: none;
-        color: black;
-        margin-left: 0%;
-        font-size: small;
-
-
-
-    }
-
-    #f {
-        font-size: 20px;
-        color: blue;
-        margin-top: 5%;
-        margin-left: -15%;
-    }
-}
-
 @media only screen and (min-width: 1000px) and (max-width:1300px) {
 
 
