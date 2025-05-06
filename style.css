@@ -614,12 +614,16 @@ input {
         height: 100vh;
         overflow-x: hidden;
     }
-    .bookTitle {
-        font-size: 10px;
+    /* .bookTitle {
+        font-size: 25px;
 
-    }
+    } */
   #myphoto{
-    width: 25vw;
+    width: 20vw;
+
+  }
+  #p{
+    font-size: 35px;
   }
     .navigation {
         background-color: rgb(235, 232, 232);
@@ -634,23 +638,342 @@ input {
     .navigation a {
         text-decoration: none;
         color: black;
-        font-size: 8px;
+        font-size: 15px;
     }
 
     #bookTitle {
         margin-left: 20%;
-        font-size: 15px;
+        font-size: 25px;
     }
 
     .mainBody {
         display: flex;
         flex-direction: column;
-         font-size: 12px;
+         /* font-size: 15px; */
         margin-top: 5%;
     }
 
     .intro {
         display: flex;
+        width: 110%;
+    }
+
+    .intro img {
+        width: 50%;
+        margin-left: -80%;
+    }
+
+
+
+    .trevor img {
+        width: 70%;
+    }
+
+    .myPhoto img {
+        width: 200px;
+        margin-bottom: 8%;
+        border-radius: 50%;
+
+
+
+
+    }
+
+    #welcome {
+        padding-top: 18%;
+        width: 150%;
+
+    }
+
+    .hello p {
+        margin-top: 17%;
+    }
+
+    .childhood {
+        display: flex;
+        /* gap: 8px;
+            margin-top: 30%; */
+        gap: 15px;
+    }
+
+
+
+    .voluteer {
+        display: flex;
+        gap: 15px;
+
+
+    }
+
+    .journey {
+        width: 70vw;
+        height: 100vh;
+        background-color: rgb(236, 234, 234);
+        margin-top: 14%;
+    }
+
+    .journey img {
+        height: 20vh;
+        width: 30vw;
+
+    }
+
+    #h {
+        margin-left: 5px;
+    }
+
+    .voluteer img {
+
+        width: 30vw;
+
+    }
+
+    .award {
+        display: flex;
+        /* gap: 8px;
+            margin-top: 30%; */
+        gap: 15px;
+    }
+
+    .award img {
+        width: 30vw;
+
+    }
+
+    .main {
+        width: 70vw;
+        overflow: scroll;
+        height: 150vh;
+        margin-left: 10%;
+        font-size: 18px;
+
+
+    }
+
+    .marketing {
+        width: 55vw;
+        margin-left: 10%;
+        margin-top: 20%;
+        font-size: 18;
+
+
+
+
+    }
+
+    .twitable {
+        display: flex;
+
+    }
+
+    .logo {
+        font-size: 200%;
+        display: flex;
+        flex-direction: column;
+        color: gray;
+
+    }
+
+    .quote {
+        margin-left: 5%;
+        width: 100%;
+    }
+
+    #w {
+        padding-top: 23px;
+    }
+
+    #e {
+        padding-top: 190px;
+
+    }
+
+    #r {
+        padding-top: 155px;
+    }
+
+    #tweets {
+        background-color: rgb(32, 175, 241);
+        border: none;
+        padding: 9px;
+        width: 100px;
+        color: white;
+    }
+
+    .connection a {
+        text-decoration: none;
+        color: black;
+        font-size: 25px;
+        color: blue;
+    }
+
+    .share {
+        margin-left: 28%;
+        margin-top: 8%;
+    }
+
+    .share a {
+        text-decoration: none;
+        color: blue;
+        margin-right: 5%;
+
+    }
+
+    .subs-form input {
+        margin-left: 8%;
+        width: 30%;
+        padding: 15px;
+
+    }
+
+    #subscribe {
+        width: 30%;
+        padding: 15px;
+        background-color: black;
+        color: white;
+        font-size: 15px;
+        margin-left: 5%;
+
+    }
+
+
+    .subscription {
+      font-size: 10px;
+    margin-left: 10%;
+    
+    }
+    
+  .subscription h1{
+    font-size: 25px;
+  }
+
+    #sub {
+        margin-left: 5%;
+        font-size: 17px;
+    }
+
+    #hr {
+        width: 35%;
+        margin-left: 23%;
+
+    }
+
+    .comment {
+        margin-left: 3%;
+        margin-top: 5%;
+        font-size: 17px;
+        
+    }
+    .comment form {
+        margin-top: 20%;
+    }
+
+    #feedback {
+        padding: 10%;
+        width: 64.6%;
+
+    }
+
+    input {
+        margin: 3% 0%;
+        width: 80%;
+        padding: 15px;
+    }
+
+    #post {
+        padding: 10px;
+        width: 50%;
+        background-color: black;
+        color: white;
+        font-size: 15px;
+        margin-top: 3%;
+
+    }
+
+    .navig {
+        margin-top: 5%;
+        background-color: rgb(235, 232, 232);
+        padding: 40px;
+        margin-bottom: 5%;
+        display: flex;
+        width: 84%;
+        gap: 60px;
+
+
+
+
+    }
+
+    .navig a {
+        text-decoration: none;
+        color: black;
+        margin-left: -4%;
+        font-size: 15px;
+        gap: 2px;
+
+
+
+    }
+
+    #f {
+        font-size: 20px;
+        color: blue;
+        margin-top: 2%;
+    }
+}
+@media only screen and (min-width: 1000px) and (max-width:1300px) {
+
+
+    body{
+        width: 100vw;
+        height: 100vh;
+        overflow-x: hidden;
+    }
+    /* .bookTitle {
+        font-size: 25px;
+
+    } */
+  #myphoto{
+    width: 20vw;
+
+  }
+  #type{
+    font-size: 25px;
+  }
+  #p{
+    font-size: 35px;
+  }
+    .navigation {
+        background-color: rgb(235, 232, 232);
+        padding: 13px;
+        display: flex;
+        padding-left: 5%;
+        width: 97%;
+
+
+    }
+
+    .navigation a {
+        text-decoration: none;
+        color: black;
+        font-size: 20px;
+    }
+
+    #bookTitle {
+        margin-left: 20%;
+        font-size: 25px;
+    }
+
+    .mainBody {
+        display: flex;
+        flex-direction: column;
+         /* font-size: 15px; */
+        margin-top: 5%;
+    }
+
+    .intro {
+        display: flex;
+        width: 110%;
     }
 
     .intro img {
@@ -740,16 +1063,16 @@ input {
         overflow: scroll;
         height: 150vh;
         margin-left: 10%;
-        font-size: 13px;
+        font-size: 25px;
 
 
     }
 
     .marketing {
-        width: 40vh;
+        width: 55vw;
         margin-left: 10%;
         margin-top: 20%;
-        font-size: 13;
+        font-size: 25px;
 
 
 
@@ -804,8 +1127,8 @@ input {
 
     .share {
         margin-left: 28%;
-        font-size: 13px;
-        margin-top: 10%;
+        margin-top: 8%;
+        font-size: 35px;
     }
 
     .share a {
@@ -816,9 +1139,9 @@ input {
     }
 
     .subs-form input {
-        margin-left: 10px;
+        margin-left: 10%;
         width: 30%;
-        padding: 15px;
+        padding: 25px;
 
     }
 
@@ -827,7 +1150,7 @@ input {
         padding: 15px;
         background-color: black;
         color: white;
-        font-size: 15px;
+        font-size: 20px;
         margin-left: 5%;
 
     }
@@ -835,12 +1158,18 @@ input {
 
     .subscription {
       font-size: 10px;
-    margin-left: 10px;
+    margin-left: 10%;
+    
     }
-
+    
+  .subscription h1{
+    font-size: 30px;
+    margin-top: 5%;
+  }
 
     #sub {
-        margin-left: 0%;
+        margin-left: 5%;
+        font-size: 25px;
     }
 
     #hr {
@@ -850,27 +1179,25 @@ input {
     }
 
     .comment {
-        margin-left: 2%;
-        margin-top: 2%;
-        font-size: 13px;
+        margin-left: 3%;
+        margin-top: 5%;
+        font-size: 25px;
         
     }
-    
-
     .comment form {
-        margin-top: 2%;
+        margin-top: 20%;
     }
 
     #feedback {
         padding: 10%;
-        width: 70%;
+        width: 64.6%;
 
     }
 
     input {
-        margin: 1% 0%;
+        margin: 3% 0%;
         width: 80%;
-        padding: 18px;
+        padding: 15px;
     }
 
     #post {
@@ -879,6 +1206,7 @@ input {
         background-color: black;
         color: white;
         font-size: 15px;
+        margin-top: 3%;
 
     }
 
@@ -888,8 +1216,8 @@ input {
         padding: 40px;
         margin-bottom: 5%;
         display: flex;
-        width: 72%;
-        gap: 20px;
+        width: 84%;
+        gap: 60px;
 
 
 
@@ -900,296 +1228,8 @@ input {
         text-decoration: none;
         color: black;
         margin-left: -4%;
-        font-size: 12px;
+        font-size: 15px;
         gap: 2px;
-
-
-
-    }
-
-    #f {
-        font-size: 20px;
-        color: blue;
-        margin-top: 2%;
-    }
-}
-@media only screen and (min-width: 1000px) and (max-width:1300px) {
-
-
-    #bookTitle {
-        font-size: 30px;
-
-    }
-
-    .navigation {
-        background-color: rgb(235, 232, 232);
-        padding: 13px;
-        display: flex;
-        padding-left: 20%;
-
-
-    }
-
-    .navigation a {
-        text-decoration: none;
-        color: black;
-        font-size: 10px;
-    }
-
-    #bookTitle {
-        margin-left: 20%;
-    }
-
-    .mainBody {
-        display: flex;
-        flex-direction: column;
-
-        margin-top: 5%;
-    }
-
-    .intro {
-        display: flex;
-    }
-
-    .intro img {
-        width: 50%;
-        margin-left: -100%;
-    }
-
-
-
-    .trevor img {
-        width: 100%;
-    }
-
-    .myPhoto img {
-        width: 100%;
-
-        margin-bottom: 10%;
-        border-radius: 50%;
-
-
-
-
-    }
-
-    #welcome {
-        padding-top: 18%;
-        width: 150%;
-
-    }
-
-    .hello p {
-        margin-top: 17%;
-    }
-
-    .childhood {
-        display: flex;
-        gap: 15px;
-    }
-
-    .childhood img {}
-
-    .voluteer {
-        display: flex;
-        gap: 15px;
-
-
-    }
-
-    .journey {
-        width: 6vw;
-        height: 100vh;
-        background-color: rgb(236, 234, 234);
-        margin-top: 14%;
-    }
-
-    .journey img {
-        height: 40vh;
-        width: 30vw;
-
-    }
-
-    #h {
-        margin-left: 5px;
-    }
-
-    .voluteer img {
-
-        width: 30vw;
-
-    }
-
-    .award {
-        display: flex;
-        /* gap: 8px;
-               margin-top: 30%; */
-        gap: 15px;
-    }
-
-    .award img {
-        width: 30vw;
-
-    }
-
-    .main {
-        width: 75vw;
-        overflow: scroll;
-        height: 150vh;
-        margin-left: 20%;
-    }
-
-    .marketing {
-        width: 40vh;
-        margin-left: 15%;
-        margin-top: 20%;
-
-
-
-
-    }
-
-    .twitable {
-        display: flex;
-
-    }
-
-    .logo {
-        font-size: 200%;
-        display: flex;
-        flex-direction: column;
-        color: gray;
-
-    }
-
-    .quote {
-        margin-left: 5%;
-        width: 100%;
-    }
-
-    #w {
-        padding-top: 23px;
-    }
-
-    #e {
-        padding-top: 190px;
-
-    }
-
-    #r {
-        padding-top: 155px;
-    }
-
-    #tweets {
-        background-color: rgb(32, 175, 241);
-        border: none;
-        padding: 9px;
-        width: 100px;
-        color: white;
-    }
-
-    .connection a {
-        text-decoration: none;
-        color: black;
-        font-size: 25px;
-        color: blue;
-    }
-
-    .share {
-        margin-left: %;
-        font-size: 25px;
-        margin-top: 20%;
-    }
-
-    .share a {
-        text-decoration: none;
-        color: blue;
-        margin-right: 5%;
-
-    }
-
-    .subs-form input {
-        margin-left: 47px;
-        width: 30%;
-        padding: 15px;
-
-    }
-
-    #subscribe {
-        width: 30%;
-        padding: 15px;
-        background-color: black;
-        color: white;
-        font-size: 10px;
-        margin-left: 5%;
-
-    }
-
-
-    .subscription {
-        margin-left: 10%;
-    }
-
-
-    #sub {
-        margin-left: 8%;
-    }
-
-    #hr {
-        width: 35%;
-        margin-left: 23%;
-
-    }
-
-    .comment {
-        margin-left: 2%;
-        margin-top: 2%;
-    }
-
-    .comment form {
-        margin-top: 2%;
-    }
-
-    #feedback {
-        padding: 10%;
-        width: 70%;
-
-    }
-
-    input {
-        margin: 1% 0%;
-        width: 80%;
-        padding: 18px;
-    }
-
-    #post {
-        padding: 10px;
-        width: 50%;
-        background-color: black;
-        color: white;
-        font-size: 20px;
-
-    }
-
-    .navig {
-        margin-top: 5%;
-        background-color: rgb(235, 232, 232);
-        padding: 40px;
-        margin-bottom: 5%;
-        display: flex;
-        width: 100%;
-        gap: 20px;
-
-
-
-
-    }
-
-    .navig a {
-        text-decoration: none;
-        color: black;
-        margin-left: -4%;
-        font-size: small;
 
 
 
