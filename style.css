@@ -509,7 +509,7 @@ input {
         margin-left: 10px;
         width: 30%;
         padding: 15px;
-        margin-top: 2%;
+        margin-top: 6%;
 
     }
 
@@ -549,18 +549,19 @@ input {
     
 
     .comment form {
-        margin-top: 2%;
+        margin-top: 1%;
     }
 
     #feedback {
-        padding: 10%;
-        width: 66.5%;
+        padding: 8%;
+        width: 70.6%;
+
 
     }
 
     input {
         margin: 1% 0%;
-        width: 80%;
+        width: 78%;
         padding: 18px;
     }
 
@@ -823,6 +824,7 @@ input {
         margin-left: 8%;
         width: 30%;
         padding: 15px;
+        margin-top:1%;
 
     }
 
@@ -839,12 +841,14 @@ input {
 
     .subscription {
       font-size: 10px;
-    margin-left: 10%;
+    margin-left: 12%;
+    margin-top: 1%;
     
     }
     
   .subscription h1{
     font-size: 25px;
+    margin-top: 2%;
   }
 
     #sub {
@@ -859,33 +863,34 @@ input {
     }
 
     .comment {
-        margin-left: 3%;
-        margin-top: 5%;
-        font-size: 17px;
+        margin-left: 5%;
+        margin-top: 27%;
+        font-size: 30px;
+        width: 90%;
         
     }
-    .comment form {
-        margin-top: 20%;
-    }
-
     #feedback {
-        padding: 10%;
-        width: 64.6%;
+        padding: 7%;
+        width: 62%;
+        font-size: 20px;
+        margin-top: 1%;
 
     }
 
     input {
-        margin: 3% 0%;
-        width: 80%;
+      
+        width: 72.1%;
         padding: 15px;
+        font-size: 20px;
+        margin-top: 0.5%;
     }
 
     #post {
-        padding: 10px;
-        width: 50%;
+        padding: 20px;
+        width: 40%;
         background-color: black;
         color: white;
-        font-size: 15px;
+        font-size: 30px;
         margin-top: 3%;
 
     }
@@ -908,7 +913,7 @@ input {
         text-decoration: none;
         color: black;
         margin-left: -4%;
-        font-size: 15px;
+        font-size: 20px;
         gap: 2px;
 
 
@@ -956,12 +961,12 @@ input {
     .navigation a {
         text-decoration: none;
         color: black;
-        font-size: 20px;
+        font-size: 25px;
     }
 
     #bookTitle {
         margin-left: 20%;
-        font-size: 25px;
+        font-size: 40px;
     }
 
     .mainBody {
@@ -1024,7 +1029,7 @@ input {
     }
 
     .journey {
-        width: 70vw;
+        width: 60vw;
         height: 100vh;
         background-color: rgb(236, 234, 234);
         margin-top: 14%;
@@ -1032,7 +1037,7 @@ input {
 
     .journey img {
         height: 20vh;
-        width: 30vw;
+        width: 25vw;
 
     }
 
@@ -1042,7 +1047,7 @@ input {
 
     .voluteer img {
 
-        width: 30vw;
+        width: 25vw;
 
     }
 
@@ -1054,7 +1059,7 @@ input {
     }
 
     .award img {
-        width: 30vw;
+        width: 25vw;
 
     }
 
@@ -1063,7 +1068,7 @@ input {
         overflow: scroll;
         height: 150vh;
         margin-left: 10%;
-        font-size: 25px;
+        font-size: 30px;
 
 
     }
@@ -1072,7 +1077,7 @@ input {
         width: 55vw;
         margin-left: 10%;
         margin-top: 20%;
-        font-size: 25px;
+        font-size:30px;
 
 
 
@@ -1127,8 +1132,8 @@ input {
 
     .share {
         margin-left: 28%;
-        margin-top: 8%;
-        font-size: 35px;
+        margin-top: 35%;
+        font-size: 45px;
     }
 
     .share a {
@@ -1140,36 +1145,37 @@ input {
 
     .subs-form input {
         margin-left: 10%;
-        width: 30%;
-        padding: 25px;
+        width: 40%;
+        padding: 30px;
+        margin-top:3%;
 
     }
 
     #subscribe {
         width: 30%;
-        padding: 15px;
+        padding: 30px;
         background-color: black;
         color: white;
-        font-size: 20px;
-        margin-left: 5%;
+        font-size: 30px;
+        margin-left: 1%;
 
     }
 
 
     .subscription {
-      font-size: 10px;
+      font-size: 25px;
     margin-left: 10%;
     
     }
     
   .subscription h1{
-    font-size: 30px;
+    font-size: 40px;
     margin-top: 5%;
   }
 
     #sub {
         margin-left: 5%;
-        font-size: 25px;
+        font-size: 30px;
     }
 
     #hr {
@@ -1180,32 +1186,35 @@ input {
 
     .comment {
         margin-left: 3%;
-        margin-top: 5%;
-        font-size: 25px;
+        margin-top: 15%;
+        font-size: 30px;
         
     }
     .comment form {
-        margin-top: 20%;
+        margin-top: 10%;
+        margin-left: 5%;
     }
 
     #feedback {
         padding: 10%;
-        width: 64.6%;
+        width: 68%;
+        font-size: 30px;
 
     }
 
     input {
         margin: 3% 0%;
-        width: 80%;
-        padding: 15px;
+        width: 84%;
+        padding: 20px;
+        font-size: 30px;
     }
 
     #post {
-        padding: 10px;
-        width: 50%;
+        padding: 15px;
+        width: 30%;
         background-color: black;
         color: white;
-        font-size: 15px;
+        font-size: 30px;
         margin-top: 3%;
 
     }
@@ -1227,8 +1236,8 @@ input {
     .navig a {
         text-decoration: none;
         color: black;
-        margin-left: -4%;
-        font-size: 15px;
+        margin-left: 4%;
+        font-size: 20px;
         gap: 2px;
 
 
