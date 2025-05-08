@@ -495,7 +495,7 @@ input {
     .share {
         margin-left: 28%;
         font-size: 13px;
-        margin-top: 10%;
+        margin-top: 2px;
     }
 
     .share a {
@@ -509,7 +509,7 @@ input {
         margin-left: 10px;
         width: 30%;
         padding: 15px;
-        margin-top: 6%;
+        margin-top: 5%;
 
     }
 
@@ -525,13 +525,16 @@ input {
 
 
     .subscription {
-      font-size: 10px;
-    margin-left: 10px;
+      font-size: 8px;
+    margin-left: 9px;
+    
     }
 
 
     #sub {
-        margin-left: 0%;
+        margin-left: 1
+        2%;
+        font-size: 12px;
     }
 
     #hr {
@@ -544,6 +547,7 @@ input {
         margin-left: 2%;
         margin-top: 2%;
         font-size: 13px;
+        width: 90%;
         
     }
     
@@ -554,13 +558,13 @@ input {
 
     #feedback {
         padding: 8%;
-        width: 70.6%;
+        width: 72.5%;
 
 
     }
 
     input {
-        margin: 1% 0%;
+        margin: 0% 0%;
         width: 78%;
         padding: 18px;
     }
@@ -571,6 +575,7 @@ input {
         background-color: black;
         color: white;
         font-size: 15px;
+        margin-top: 1%;
 
     }
 
@@ -582,9 +587,6 @@ input {
         display: flex;
         width: 72%;
         gap: 30px;
-
-
-
 
     }
 
@@ -615,10 +617,6 @@ input {
         height: 100vh;
         overflow-x: hidden;
     }
-    /* .bookTitle {
-        font-size: 25px;
-
-    } */
   #myphoto{
     width: 20vw;
 
@@ -821,10 +819,10 @@ input {
     }
 
     .subs-form input {
-        margin-left: 8%;
+        margin-left: 9%;
         width: 30%;
         padding: 15px;
-        margin-top:1%;
+        margin-top:3%;
 
     }
 
@@ -840,7 +838,7 @@ input {
 
 
     .subscription {
-      font-size: 10px;
+    font-size: 10px;
     margin-left: 12%;
     margin-top: 1%;
     
@@ -864,30 +862,30 @@ input {
 
     .comment {
         margin-left: 5%;
-        margin-top: 27%;
-        font-size: 30px;
-        width: 90%;
+        margin-top: 15%;
+        font-size: 25px;
+        width: 75%;
         
     }
     #feedback {
-        padding: 7%;
-        width: 62%;
+        padding: 5%;
+        width: 65.5%;
         font-size: 20px;
-        margin-top: 1%;
+        margin-top: 3%;
 
     }
 
     input {
       
-        width: 72.1%;
+        width: 71%;
         padding: 15px;
         font-size: 20px;
-        margin-top: 0.5%;
+        margin-top: 2px;
     }
 
     #post {
-        padding: 20px;
-        width: 40%;
+        padding: 15px;
+        width: 45%;
         background-color: black;
         color: white;
         font-size: 30px;
