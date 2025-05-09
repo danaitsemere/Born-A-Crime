@@ -508,7 +508,7 @@ input {
     .subs-form input {
         margin-left: 10px;
         width: 30%;
-        padding: 15px;
+        padding: 12px;
         margin-top: 5%;
 
     }
@@ -564,9 +564,9 @@ input {
     }
 
     input {
-        margin: 0% 0%;
+        margin: 1% 0%;
         width: 78%;
-        padding: 18px;
+        padding: 15px;
     }
 
     #post {
@@ -575,7 +575,7 @@ input {
         background-color: black;
         color: white;
         font-size: 15px;
-        margin-top: 1%;
+        margin-top: 5%;
 
     }
 
@@ -750,7 +750,7 @@ input {
     }
 
     .marketing {
-        width: 55vw;
+        width: 50vw;
         margin-left: 10%;
         margin-top: 20%;
         font-size: 18;
@@ -819,11 +819,10 @@ input {
     }
 
     .subs-form input {
-        margin-left: 9%;
-        width: 30%;
-        padding: 15px;
-        margin-top:3%;
-
+        margin-left: 15%;
+        width: 22%;
+        padding: 12px;
+        margin-top: 1%;
     }
 
     #subscribe {
@@ -862,34 +861,33 @@ input {
 
     .comment {
         margin-left: 6%;
-        margin-top: 15%;
+        margin-top: 20%;
         font-size: 25px;
-        width: 75%;
+        width: 68%;
         
     }
     #feedback {
-        padding: 5%;
-        width: 65.5%;
+        padding: 3%;
+        width: 67.5%;
         font-size: 20px;
-        margin-top: 3%;
 
     }
 
     input {
       
-        width: 71%;
-        padding: 15px;
+        width: 72%;
+        padding: 6px;
         font-size: 20px;
-        margin-top: 2px;
+        margin-top: 35px;
     }
 
     #post {
-        padding: 15px;
+        padding: 10px;
         width: 50%;
         background-color: black;
         color: white;
         font-size: 30px;
-        margin-top: 3%;
+        margin-top: 12%;
 
     }
 
@@ -951,7 +949,7 @@ input {
         padding: 13px;
         display: flex;
         padding-left: 5%;
-        width: 97%;
+        width: 86%;
 
 
     }
@@ -1234,7 +1232,7 @@ input {
     .navig a {
         text-decoration: none;
         color: black;
-        margin-left: 4%;
+        margin-left: 1%;
         font-size: 20px;
         gap: 2px;
 
